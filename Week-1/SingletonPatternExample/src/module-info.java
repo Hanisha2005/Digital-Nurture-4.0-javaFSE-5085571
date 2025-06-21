@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module singleton_pattern {
-}
